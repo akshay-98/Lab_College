@@ -23,7 +23,7 @@ void main()
 	scanf("%d",&n);
 	for(i=0;i<n;i++)
 	{
-		printf("Enter the burst time of process %d \n",i+1);
+		printf("Enter the burst time of process: %d \n",i+1);
 		scanf("%d",&burst[i]);
 			
 	}
